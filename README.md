@@ -1,4 +1,3 @@
-## Hi there 👋
 ##
 <h2>
   👋 Olá!!Me chamo Saulo Camargo de Oliveira, sou formado em Analise e desenvolvimento de sistemas e também sou desenvolvedor web nas horas vagas
