@@ -1,6 +1,6 @@
 ##
 <h2>
-  👋 Olá!! Sou Saulo Camargo de Oliveira, sou formado em Analise e desenvolvimento de sistemas e também sou desenvolvedor web nas horas vagas
+  👋 Olá!! Sou Saulo Camargo de Oliveira, me formei em Analise e desenvolvimento de sistemas e também sou desenvolvedor web nas horas vagas
 </h2><br>
 
 <div>
