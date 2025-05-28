@@ -1,6 +1,6 @@
 ##
 <h2>
-  👋 Olá!! Sou Saulo Camargo de Oliveira, Analista de Sistemas e também sou desenvolvedor web nas horas vagas
+  👋 Olá!! Sou Saulo Camargo de Oliveira, Analista de Sistemas e também sou desenvolvedor web 
 </h2><br>
 
 <div>
