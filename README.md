@@ -1,6 +1,6 @@
 ##
 <h2>
-  👋 Olá!! Meu Nome é Saulo Camargo de Oliveira, Analista de Sistemas e também sou desenvolvedor web 
+  👋 Olá!! Meu nome é Saulo Camargo de Oliveira, Analista de Sistemas e também sou desenvolvedor web 
 </h2><br>
 
 <div>
