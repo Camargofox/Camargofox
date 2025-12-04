@@ -1,9 +1,17 @@
 ## 👋 Olá! Eu sou o Camargo
 
-Sou **Desenvolvedor Web**, apaixonado por tecnologia, criação de interfaces e aprendizado contínuo. Tenho experiência com **HTML, CSS, JavaScript e Figma** e estou evoluindo meus conhecimentos em **React**.  
+Trabalho como **Assistente de Tecnologia** e também sou **Desenvolvedor Web**, apaixonado por tecnologia, criação de interfaces e aprendizado contínuo. Tenho experiência com **HTML, CSS, JavaScript e Figma** e estou evoluindo meus conhecimentos em **React**.  
 Atualmente, estou desenvolvendo projetos práticos para construir um portfólio sólido e fortalecer minhas habilidades em desenvolvimento web.
 
 ---
+
+
+
+### 🛠️ O que estou desenvolvendo atualmente
+
+- Projetos Front-End com HTML, CSS e JavaScript    
+- Aplicações simples para avaliação escolar  
+- Estudos focados em **React**.
 
 ### 🚀 Tecnologias que utilizo
 <div>
@@ -15,10 +23,9 @@ Atualmente, estou desenvolvendo projetos práticos para construir um portfólio 
 </div>
 
 ---
-
-### 🛠️ O que estou desenvolvendo atualmente
-
-- Projetos Front-End com HTML, CSS e JavaScript    
-- Aplicações simples para avaliação escolar  
-- Estudos focados em **React**.
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Camargofox/Camargofox/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Camargofox/Camargofox/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Camargofox/Camargofox/output/github-contribution-grid-snake.svg">
+</picture>
 
