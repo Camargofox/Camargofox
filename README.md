@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Camargo
+## 👋 Olá! Meu Nome é Saulo Camargo 
 
 Trabalho como **Assistente de Tecnologia** e também sou **Desenvolvedor Web**, apaixonado por tecnologia, criação de interfaces e aprendizado contínuo. Tenho experiência com **HTML, CSS, JavaScript e Figma** e estou evoluindo meus conhecimentos em **React**.  
 Atualmente, estou desenvolvendo projetos práticos para construir um portfólio sólido e fortalecer minhas habilidades em desenvolvimento web.
