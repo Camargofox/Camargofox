@@ -7,13 +7,13 @@ Atualmente, estou desenvolvendo projetos práticos para construir um portfólio 
 
 
 
-### 🛠️ O que estou desenvolvendo atualmente
+### O que estou desenvolvendo atualmente
 
 - Projetos Front-End com HTML, CSS e JavaScript    
 - Aplicações simples para avaliação escolar  
 - Estudos focados em **React**.
 
-### 🚀 Tecnologias que utilizo
+### Tecnologias que utilizo
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
